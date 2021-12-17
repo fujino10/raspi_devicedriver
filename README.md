@@ -11,8 +11,13 @@ Tomoshi Fujino　
 
 Ryuichi Ueda（講義内のプログラムの作成者）
 
- 　SatoshiShimada(READMEの書き方を参考にさせていただきました)
+SatoshiShimada(READMEの書き方を参考にさせていただきました)
+
+wmrn(同上)
 　　
 ## URL
 Ryuichi Ueda[https://github.com/ryuichiueda/robosys_device_drivers]
+
 SatoshiShimada[https://github.com/SatoshiShimada/robosys1]
+
+wmrn[https://github.com/wmrn/MarkDown/blob/master/README.md]
